@@ -1,5 +1,7 @@
 ### Fundamentals of Intelligence
 
+**Author: Liu Yichuan**  
+
 **Abstract:** From the new definition of intelligence as "the ability to make deterministic choices," a macro definition of intelligence can be derived as "the ability to efficiently utilize resources to achieve a certain purpose." Intelligence can efficiently utilize resources because it can fully exploit the characteristics of things, which manifest through their connections with other things. Thus, intelligence is essentially about making things fully connect with one another.
 
 **Keywords:** Intelligence, Deterministic Choice, Characteristics, Connection, Emergence
@@ -61,6 +63,3 @@ Therefore, judging the intelligence degree of a whole requires considering both 
 
 Summarizing the principles of intelligence is challenging due to the immense diversity and complexity of intelligence, requiring exceptional insight and inductive ability, and partly summarizing the unified laws of the world. This paper proposes some new viewpoints, but deeper research on the principles of intelligence is still necessary.
 
----
-
-**Author: Liu Yichuan**
